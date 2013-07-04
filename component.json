@@ -1,6 +1,6 @@
 {
-  "name": "hasDownloadSupport",
-  "repo": "GEverding/hasDownloadSupport",
+  "name": "has-download-attr",
+  "repo": "GEverding/has-download-attr",
   "description": "Checks Browser for HTML5 Download Attribute Support",
   "version": "0.0.1",
   "keywords": [],
